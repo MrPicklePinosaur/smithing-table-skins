@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "smithingtableskins:item/emerald_encrusted_golden_pickaxe"
+  }
+}
